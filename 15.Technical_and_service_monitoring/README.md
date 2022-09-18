@@ -38,6 +38,7 @@
 ![Screenshot_4](https://user-images.githubusercontent.com/49452234/190912475-ed322a3f-99ae-4e10-a0a1-f06438d90778.jpg)
 
 ### Grafana dashboard
+![grafana](https://user-images.githubusercontent.com/49452234/190913609-388b8f16-c7a4-40b7-b32f-76d94fec1f49.jpg)
 
 ### Slack notification
 ![slack](https://user-images.githubusercontent.com/49452234/190912284-297382f2-581f-4aa7-bf1c-bf5ae11325af.jpg)
