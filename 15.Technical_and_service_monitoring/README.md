@@ -15,7 +15,7 @@
 ### Slack integration from alertmanager
 ```bash
     data:
-    config.yml: |-
+    config.yml:
         global:
         templates:
         - '/etc/alertmanager/*.tmpl'
