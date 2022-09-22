@@ -12,3 +12,8 @@
 ### Slack notifications
 ![Screenshot_3](https://user-images.githubusercontent.com/49452234/191591500-44c4092d-fb3a-4c23-ab5b-d34f233ff670.jpg)
 
+### Nginx
+![Screenshot_4](https://user-images.githubusercontent.com/49452234/191817769-9a66b17f-585d-4cc7-a617-9dae78f197dd.jpg)
+
+### /etc/nginx/conf.d/jenkins.conf
+![Screenshot_6](https://user-images.githubusercontent.com/49452234/191817826-103f2725-7943-4058-958f-3f44a161c0f7.jpg)
