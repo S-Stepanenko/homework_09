@@ -212,5 +212,7 @@ jobs:
 ### Screenshots
 
 ### GitHub Actions
+![Screenshot_1](https://user-images.githubusercontent.com/49452234/193459079-d456cff6-bb59-43cc-b381-070d483561ff.jpg)
 
 ### Slack
+![s-stepanenko_notifications](https://user-images.githubusercontent.com/49452234/193459047-dd242e38-c51d-4a43-8df8-cda480952b9f.jpg)
