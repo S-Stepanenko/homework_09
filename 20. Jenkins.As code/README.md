@@ -9,7 +9,7 @@ Attached
 
 ## Git repository of this task
 
-https://github.com/S-Stepanenko/jenkins_as_code#readme
+https://github.com/S-Stepanenko/jenkins_as_code.git
 
 ## Console Output
 
